@@ -64,7 +64,7 @@ An integrated desktop application that enables HR and business teams to analyze,
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/employee-compensation-app.git
+git clone https://github.com/JoeDucker/Compensation_Suite
 ```
 
 ### 2. Database Setup
